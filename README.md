@@ -16,7 +16,6 @@ O projeto consiste em:
     - Utilizar funções para organizar e estruturar o seu código;
 
 
-Os arquivos com os códigos desenvolvidos estão na pasta `sd-019-a-project-playground-functions`, no arquivo`src`
 
 ## Requisitos 
 
